@@ -3,6 +3,7 @@ Lexer for java language with limited token range. This program scans and print o
 
 the only java program I have scanned is source code below
 
+```java
 class Main {
     public static void main (String[] args) {
   
@@ -15,4 +16,4 @@ class Main {
       }
     }
   }
-  
+  ```
